@@ -1,2 +1,2 @@
 [aeiou]*.php
-
+!madhavi.php
